@@ -31,8 +31,7 @@ _*Implementing a Blockchain using Python. And Deploying with Web App using Flask
 
 2. Execute/Run code in Python IDE.
 
-3. Download API Development Tool: Postman OR Simply paste these links in Web Browser.
-
-- GET Request for display Blockchain: http://127.0.0.1:5000/get_chain
-- GET Request for Mine Block: http://127.0.0.1:5000/mine_block
-- GET Request for check valid Blockchain: http://127.0.0.1:5000/is_valid
+3. Download API Development Tool: Postman OR Simply paste these links in Web Browser:
+   - GET Request for display Blockchain: http://127.0.0.1:5000/get_chain
+   - GET Request for Mine Block: http://127.0.0.1:5000/mine_block
+   - GET Request for check valid Blockchain: http://127.0.0.1:5000/is_valid
