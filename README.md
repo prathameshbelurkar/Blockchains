@@ -1,4 +1,4 @@
-<p style="font-size:2rem;font-weight:400" align="center">
+<p style="font-size:32px;font-weight:400" align="center">
   Blockchains 🔗
 </p>
 
