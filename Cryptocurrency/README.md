@@ -2,7 +2,9 @@
 
 <br>
 
-<img style="display:block;margin:auto" src="img/chat.gif" width=250 />
+<p align="center">
+  <img src="img/chat.gif" width=300 />
+</p>
 
 <br>
 
