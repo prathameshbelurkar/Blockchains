@@ -2,7 +2,7 @@
 
 <br>
 
-<img style="display:block;margin:auto" src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy.gif" width=250 />
+<img style="display:block;margin:auto" src="img/chat.gif" width=250 />
 
 <br>
 
