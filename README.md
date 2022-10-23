@@ -1,6 +1,4 @@
-<p style="font-size:32px;font-weight:400" align="center">
-  Blockchains 🔗
-</p>
+<h1 align="center">Blockchains 🔗</h1>
 
 <br>
 
