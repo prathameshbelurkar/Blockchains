@@ -106,3 +106,34 @@ Bitcoin mining is the process by which new bitcoins are entered into circulation
 <hr>
 
 ### Byzantine Fault Tolerance (BFT)
+
+<br>
+
+<p align="center">
+<img src="https://www.unitychain.io/blog/wp-content/uploads/2019/07/pre-prepare-phase.jpg" width=500 />
+</p>
+
+<br>
+
+Byzantine Fault Tolerance(BFT) is the feature of a distributed network to reach consensus(agreement on the same value) even when some of the nodes in the network fail to respond or respond with incorrect information. The objective of a BFT mechanism is to safeguard against the system failures by employing collective decision making(both – correct and faulty nodes) which aims to reduce to influence of the faulty nodes. BFT is derived from Byzantine Generals’ Problem.
+
+Byzantine fault tolerance can be achieved if the correctly working nodes in the network reach an agreement on their values. There can be a default vote value given to missing messages i.e., we can assume that the message from a particular node is ‘faulty’ if the message is not received within a certain time limit. Furthermore, we can also assign a default response if the majority of nodes respond with a correct value.
+
+Leslie Lamport proved that if we have 3m+1 correctly working processors, a consensus(agreement on same state) can be reached if atmost m processors are faulty which means that strictly more than two-thirds of the total number of processors should be honest.
+
+<br>
+
+**Types of Byzantine Failures:**
+
+There are two categories of failures that are considered. One is fail-stop(in which the node fails and stops operating) and other is arbitrary-node failure. Some of the arbitrary node failures are given below :
+
+- Failure to return a result
+- Respond with an incorrect result
+- Respond with a deliberately misleading result
+- Respond with a different result to different parts of the system
+
+<br>
+
+<hr>
+
+### Consensus Protocol
