@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="img/chat.gif" width=300 />
+  <img src="https://images.unsplash.com/photo-1605792657660-596af9009e82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1102&q=80" width=500 />
 </p>
 
 <br>
