@@ -136,4 +136,66 @@ There are two categories of failures that are considered. One is fail-stop(in wh
 
 <hr>
 
-### Consensus Protocol
+### Consensus Protocols
+
+<br>
+
+<p align="center">
+<img src="https://www.churchleadership.com/wp-content/uploads/2021/06/art-forging-meaningful-consensus.png" width=500 />
+</p>
+
+<br>
+
+The Blockchain consensus protocol consists of some specific objectives such as coming to an agreement, collaboration, co-operation, equal rights to every node, and mandatory participation of each node in the consensus process. Thus, a consensus algorithm aims at finding a common agreement that is a win for the entire network. Now, we will discuss various consensus algorithms and how they work.
+
+ <br>
+
+**1. Proof of Work**
+
+Proof of Work is one of the first consensus protocols used in blockchain applications. It is based on computing the hash values and validating the transactions until a specified number of trailing zeros are found in the hash value. The number that generates the hash with the specified number of trailing zeros is known as a nonce. A nonce is defined as a random number that generates the specified number of trailing zeros in the hash function.
+
+- Proof of Work is designed for permissionless public ledgers and uses the computational resources from the systems in the node to reach consensus.
+
+- The blocks are represented in a linear structure. Each block represents a group of transactions.
+
+- The mining aspect of bitcoins has to do with solving the cryptographic puzzle of finding a random integer, that leads to hashes with a specified number of leading zeros.
+
+- Every transaction is validated and signed using the public and private keys assigned to each user.
+
+<br>
+
+**2. Proof of Stake**
+
+Ethereum was one of the largest cryptocurrencies to decide to move onto proof of stake consensus. Let’s understand this example a bit better. Let’s say we are miners and are validating the transactions made. In bitcoin, a person validates the transactions by computing the hash value with a certain number of leading zeros gets the allocated amount of bitcoins.
+
+In proof of stake consensus, a validator is picked and assigned a block. The miner has to allocate a particular part of his cryptocurrency to start validating. If the miner succeeds in invalidating the transaction, then the award is the stake they had pledged initially, along with certain transaction fees. This is a way to penalize bad behavior and incentivize good behavior.
+
+- The validators are picked according to their economic stake in the network.
+
+- The objective is to avoid centralization of mining centers and provide a chance to validate to all the miners.
+
+- It is environmentally friendly as there is no computational puzzle to be solved.
+
+- Special hardware for mining is not required.
+
+<br>
+
+**3. Proof of Space**
+
+Proof of Space, also known as PoSpace, is a network consensus protocol similar to the Proof of Work consensus protocol. Instead of the computational resources, PoSpace uses disk storage to validate transactions.
+
+PoSpace consumes disk space and incentivizes miners with the most considerable disk space allocated to a block. Implemented using the hard-to-pebble graphs, this data structure is used to solve the pebbling game. The pebbling game consists of pebbling vertices in a graph only if all the parent vertices have been pebbled.
+
+Pebbling refers to storing the parents’ hash values, and removing the pebble refers to freeing the memory. Refer to this article for more details on the pebbling game.
+
+All the feasible solutions to the problem are generated randomly, called plots. These plots are stored on the disks and solved using an algorithm called Shabal’s algorithm. Once the solutions are computed, the miners compare their solutions, and the solution with the best time and space complexity is rewarded with the next block.
+
+<br>
+
+**4. Proof of Elapsed TIme**
+
+Proof of Elapsed time is a network consensus protocol developed by the Intel Corporation. The algorithm is predominantly used in permissioned blockchain ledgers. The hardware used in PoET is specially designed for this protocol. For example, Intel Software Guarded Extension (SGX) is used in networks using PoET.
+
+This consensus protocol is used to allocate blocks to miners on the network. In permissioned blockchain systems, the miners’ identity is determined before allowing access into the network. Therefore, anonymity is not a feature in this protocol.
+
+Each node in the network is assigned a random waiting time. The first node to complete the randomly chosen period validates the new block. The specialized hardware puts the processor to sleep during the wait time—this repeats over all the blocks in the network.
