@@ -37,3 +37,36 @@ Ethereum is a technology for building apps and organizations, holding assets, tr
 Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Among cryptocurrencies, ether is second only to bitcoin in market capitalization.
 
 Ethereum was conceived in 2013 by programmer Vitalik Buterin. Additional founders of Ethereum included Gavin Wood, Charles Hoskinson, Anthony Di Iorio and Joseph Lubin. In 2014, development work began and was crowdfunded, and the network went live on 30 July 2015. Ethereum allows anyone to deploy permanent and immutable decentralized applications onto it, with which users can interact. Decentralized finance (DeFi) applications provide a broad array of financial services without the need for typical financial intermediaries like brokerages, exchanges, or banks, such as allowing cryptocurrency users to borrow against their holdings or lend them out for interest. Ethereum also allows users to create and exchange NFTs, which are unique tokens representing ownership of an associated asset or privilege, as recognized by any number of institutions. Additionally, many other cryptocurrencies utilize the ERC-20 token standard on top of the Ethereum blockchain and have utilized the platform for initial coin offerings.
+
+<br>
+
+<hr>
+
+## Decentralized Applications (Dapps)
+
+<br>
+
+<p align="center">
+<img src="https://bitpanda-academy.imgix.net/null3d9bc378-fba8-451d-b467-d4e2a1302392/bitpanda-academy-intermediate-14-dapp-header-bg.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&w=2100" width=500 />
+</p>
+
+<br>
+
+A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your dapp can even include a smart contract that someone else has written
+
+A dapp has its backend code running on a decentralized peer-to-peer network. Contrast this with an app where the backend code is running on centralized servers.
+
+A dapp can have frontend code and user interfaces written in any language (just like an app) to make calls to its backend. Furthermore, its frontend can get hosted on decentralized storage such as IPFS.
+
+- Decentralized - dapps operate on Ethereum, an open public decentralized platform where no one person or group has control
+
+- Deterministic - dapps perform the same function irrespective of the environment in which they get executed
+
+- Turing complete - dapps can perform any action given the required resources
+
+- Isolated - dapps are executed in a virtual environment known as Ethereum
+  Virtual Machine so that if the smart contract has a bug, it won’t hamper the normal functioning of the blockchain network
+
+<br>
+
+<hr>
