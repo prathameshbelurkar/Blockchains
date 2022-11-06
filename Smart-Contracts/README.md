@@ -90,3 +90,49 @@ The Ethereum protocol itself exists solely for the purpose of keeping the contin
 <hr>
 
 ## Gas
+
+<br>
+
+<p align="center">
+<img src="https://ethereum.org/static/9628ab90bfd02f64cf873446cbdc6c70/302a4/gas.png" width=500 />
+</p>
+
+<br>
+
+Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network.
+
+Since each Ethereum transaction requires computational resources to execute, each transaction requires a fee. Gas refers to the fee required to conduct a transaction on Ethereum successfully.
+
+Gas fees are paid in Ethereum's native currency, ether (ETH). Gas prices are denoted in gwei, which itself is a denomination of ETH - each gwei is equal to 0.000000001 ETH (10-9 ETH). For example, instead of saying that your gas costs 0.000000001 ether, you can say your gas costs 1 gwei. The word 'gwei' itself means 'giga-wei', and it is equal to 1,000,000,000 wei. Wei itself (named after Wei Dai, creator of b-money) is the smallest unit of ETH
+
+<br>
+
+<hr>
+
+## Decentralized Autonomous Organisations (DAO's)
+
+<br>
+
+<p align="center">
+<img src="https://kingslanduniversity.com/wp-content/uploads/2019/06/dapps.jpg" width=500 />
+</p>
+
+<br>
+
+A DAO is a collectively-owned, blockchain-governed organization working towards a shared mission.
+
+DAOs allow us to work with like-minded folks around the globe without trusting a benevolent leader to manage the funds or operations. There is no CEO who can spend funds on a whim or CFO who can manipulate the books. Instead, blockchain-based rules baked into the code define how the organization works and how funds are spent.
+
+They have built-in treasuries that no one has the authority to access without the approval of the group. Decisions are governed by proposals and voting to ensure everyone in the organization has a voice, and everything happens transparently on-chain.
+
+A decentralized autonomous organization (DAO) is an emerging form of legal structure that has no central governing body and whose members share a common goal to act in the best interest of the entity. Popularized through cryptocurrency enthusiasts and blockchain technology, DAOs are used to make decisions in a bottoms-up management approach.
+
+- A decentralized autonomous organization is an entity structure in which tokenholders participate in the management and decision-making of an entity.
+
+- There is no central authority of a DAO; instead, power is distributed across tokenholders who collectively cast votes.
+
+- All votes and activity through the DAO are posted on a blockchain, making all actions of users publicly viewable.
+
+- One of the first DAOs named The DAO was an organization created by developers to automate decisions and facilitate cryptocurrency transactions.
+
+- A DAO must ensure security is prioritized, as exploits can leave a DAO drained of millions of dollars of its treasury savings.
