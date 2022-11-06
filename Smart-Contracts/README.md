@@ -70,3 +70,23 @@ A dapp can have frontend code and user interfaces written in any language (just 
 <br>
 
 <hr>
+
+## Ethereum Virtual Machines (EVM's)
+
+<br>
+
+<p align="center">
+<img src="https://techfi.tech/content/images/size/w2000/2022/04/What-is-Ethereum-Virtual-Machine-and-How-it-work.jpg" width=500 />
+</p>
+
+<br>
+
+The EVM’s physical instantiation can’t be described in the same way that one might point to a cloud or an ocean wave, but it does exist as one single entity maintained by thousands of connected computers running an Ethereum client.
+
+The Ethereum protocol itself exists solely for the purpose of keeping the continuous, uninterrupted, and immutable operation of this special state machine. It's the environment in which all Ethereum accounts and smart contracts live. At any given block in the chain, Ethereum has one and only one 'canonical' state, and the EVM is what defines the rules for computing a new valid state from block to block.
+
+<br>
+
+<hr>
+
+## Gas
