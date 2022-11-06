@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="img/blockchain.gif" width=250 />
+<img src="https://images.unsplash.com/photo-1639322537504-6427a16b0a28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" width=500 />
 </p>
 
 <br>
