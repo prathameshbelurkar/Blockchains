@@ -16,7 +16,9 @@ A database usually structures its data into tables, whereas a blockchain, as its
 
 <br>
 
-<img src="https://www.spheregen.com/wp-content/uploads/2019/04/blockchain.png" alt="img of blockchain" />
+<p align="center">
+<img src="https://uploads-ssl.webflow.com/5d2dd7e1b4a76d8b803ac1aa/5e81c66dd4cabdcc1674a08d_0nt8_YaCOJ_ED51A163rrtjq4mA4Qp1MsIXdDUR4iUAVBYYM5thrRmXCJsZHNa95-yQ3poZep9S8hkUffFkdqbIt9EXmk0bUbLfV0TJWOTH2dwUp6sSsCtnPx8esAE_DROgkKAAT.png" alt="img of blockchain" width=600 />
+</p>
 
 <br>
 
@@ -36,3 +38,71 @@ A database usually structures its data into tables, whereas a blockchain, as its
 
 **Working:**
 _*The goal of blockchain is to allow digital information to be recorded and distributed, but not edited. In this way, a blockchain is the foundation for immutable ledgers, or records of transactions that cannot be altered, deleted, or destroyed. This is why blockchains are also known as a distributed ledger technology (DLT).*_
+
+<br>
+
+<hr>
+
+### Distributed Ledgers
+
+Distributed ledger technology (DLT) could fundamentally change the financial sector, making it more efficient, resilient and reliable.
+
+- This could address persistent challenges in the financial sector and change roles of financial sector stakeholders. DLT has the potential to transform various other sectors as well, like manufacturing, government financial management systems and clean energy.
+
+- Since this technology is still nascent, the World Bank Group doesn’t have general recommendations about its use for international development. We are in dialogue with standard-setting bodies, governments, central banks and other stakeholders to monitor, research and pilot applications based on blockchain and DLT.
+
+- However, waiting for “perfect” DLT solutions could mean missing an opportunity to help shape it. To understand how DLT can address challenges in the financial sector requires both research and real-life applications and pilots.
+
+- It also requires resolving consumer protection issues, financial integrity concerns, speed of transactions, environmental footprint, legal, regulatory and technological issues that arise with the advent of new technology.
+
+- DLT applications will likely be incremental, and will likely first replace processes and activities that are still manual and inefficient. (Such as reference data maintenance in payment and settlement systems, trade finance, syndicated loans, and tracking provenance of agricultural products and commodities, their subsequent sale or use as financing collateral.)
+
+- Eventually, DLT could increase efficiency and lower remittance costs, and potentially improve access to finance for unbanked populations, who are currently outside the traditional financial system.
+
+<br>
+
+<hr>
+
+### Distributed P2P Network
+
+<br>
+
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s9zSkG-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3nc9o2goloh6ml7xth1.png" width=500>
+</p>
+
+<br>
+
+Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the network. They are said to form a peer-to-peer network of nodes.
+
+Peers make a portion of their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Peers are both suppliers and consumers of resources, in contrast to the traditional client–server model in which the consumption and supply of resources are divided.
+
+<br>
+
+<hr>
+
+### Mining in Blockchains
+
+<br>
+
+<p align="center">
+<img src="https://bitcoinist.com/wp-content/uploads/2018/08/Cryptocurrency-Mining.jpg" width=400 />
+</p>
+
+<br>
+
+Bitcoin mining is the process by which new bitcoins are entered into circulation. It is also the way the network confirms new transactions and is a critical component of the blockchain ledger's maintenance and development. "Mining" is performed using sophisticated hardware that solves an extremely complex computational math problem. The first computer to find the solution to the problem receives the next block of bitcoins and the process begins again.
+
+- By mining, you can earn cryptocurrency without having to put down money for it.
+
+- Bitcoin miners receive bitcoin as a reward for completing "blocks" of verified transactions, which are added to the blockchain.
+
+- Mining rewards are paid to the miner who discovers a solution to a complex hashing puzzle first, and the probability that a participant will be the one to discover the solution is related to the portion of the network's total mining power.
+
+- You need either a graphics processing unit (GPU) or an application-specific integrated circuit (ASIC) in order to set up a mining rig.
+
+<br>
+
+<hr>
+
+### Byzantine Fault Tolerance (BFT)

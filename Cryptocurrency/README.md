@@ -22,6 +22,8 @@ _Things are different with crypto. Transactions directly connect sender and reci
 
 <br>
 
+<hr>
+
 ## Types Of Cryptocurrency Protocols
 
 ### 1. Bitcoin
@@ -30,6 +32,9 @@ _Bitcoin uses peer-to-peer technology to operate with no central authority or ba
 
 **API-reference:** https://bitcoin.org/en/how-it-works
 
+<br>
+
+<hr>
 ### 2. Ethereum
 
 _Launched in 2015, Ethereum builds on Bitcoin's innovation, with some big differences._
@@ -44,6 +49,8 @@ _While Bitcoin is only a payment network, Ethereum is more like a marketplace of
 
 <br>
 
+<hr>
+
 ## What is Mempools?
 
 _Transactions are not added to a blockchain as soon as you make a payment. They are first sent to peer nodes for verification. Each node verifies the cryptographic signatures, checks if the funds are available, etc. Once the checks are done, the transaction is again broadcasted to nearby nodes. The goal is to send the transaction data to as many nodes as possible. This can help the nodes reach a consensus regarding the validity of a transaction.
@@ -52,6 +59,8 @@ If the transaction is invalid, then a node would simply drop it. This can happen
 **Mempools are of advantage for both miners and users. They help miners pick up transactions based on priority, which can be helpful when there is a lot of traffic on the network. Miners can also download the current “transaction waiting list” to start confirming transactions. For users and the network, mempools provide resistance against DDoS attacks. These attacks occur when bad actors flood the network with minuscule transactions to create unmanageable congestion.**
 
 <br>
+
+<hr>
 
 ## Application-Specific Integrated Circuit (ASIC) Miner
 
@@ -65,6 +74,8 @@ _An application-specific integrated circuit (ASIC) is an integrated circuit chip
 
 <br>
 
+<hr>
+
 ## Orphaned Blocks
 
 _In blockchain terms, orphan blocks are blocks mined simultaneously as another block but not accepted by the blockchain. Most of the time, this is because there are not enough blocks generated from that block for the network to recognize it as the longest fork. The Bitcoin blockchain discards orphan blocks; however, other blockchains may use them for different purposes._
@@ -76,3 +87,7 @@ _Technically, orphan blocks are called stale blocks, but because most people ref
 - There can be two miners who solve valid blocks simultaneously. The network uses both blocks until one chain has more verified blocks. Then, the blocks in the shorter chain are orphaned.
 
 - Orphan blocks are a regular occurrence in a distributed blockchain such as Bitcoin.
+
+<br>
+
+<hr>
