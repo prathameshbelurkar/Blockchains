@@ -190,7 +190,7 @@ A hard fork can be contrasted with a soft fork.
 <br>
 
 <p align="center">
-<img src="https://miro.medium.com/max/828/0*Nj1wwQoHfbQptjG0.jpeg" width=500 />
+<img src="https://miro.medium.com/max/828/0*Nj1wwQoHfbQptjG0.jpeg" width=550 />
 </p>
 
 <br>
@@ -226,3 +226,37 @@ When a cryptocurrency project wants to raise money through an ICO, the project o
 <br>
 
 <hr>
+
+## Web 3.0
+
+<br>
+
+<p align="center">
+<img src="https://entethalliance.org/wp-content/uploads/2021/07/Slide7-1-600x338.jpg" width=600 />
+</p>
+
+<br>
+
+Web 2.0 and Web 3.0 refer to successive iterations of the web, compared with the original Web 1.0 of the 1990s and early 2000s. Web 2.0 is the current version of the internet (a term often used interchangeably with the web) with which we are all familiar.
+
+Web 3.0 or Web3 is the third generation of the World Wide Web. Currently a work in progress, it is a vision of a decentralized and open Web with greater utility for its users.
+
+Web refers to the World Wide Web (WWW), the internet’s core information retrieval system. The WWW initialism used to (and often still does) preface a web address and was one of the first characters typed into a web browser when searching for a specific resource online. Internet pioneer Tim Berners-Lee is credited with coining the term World Wide Web to refer to the global web of information and resources interconnected through hypertext links.
+
+- Web 2.0 and Web 3.0 represent successive, advanced iterations of the original Web 1.0 of the 1990s and early 2000s. Web 2.0 is the current version of the web with which we are all familiar, while Web 3.0 represents its next phase, which will be decentralized, open, and of greater utility.
+
+- Innovations such as smartphones, mobile internet access, and social networks have driven the exponential growth of Web 2.0.
+
+- Web 2.0 has disrupted sectors that fail to integrate the new web-based business model.
+
+- Defining features of Web 3.0 include decentralization; trustlessness and permissionlessness; artificial intelligence (AI) and machine learning; and connectivity and ubiquity.
+
+<br>
+
+Web 3.0 represents the next iteration or phase of the evolution of the web/internet and potentially could be as disruptive and represent as big a paradigm shift as Web 2.0 did. Web 3.0 is built upon the core concepts of decentralization, openness, and greater user utility.
+
+Berners-Lee had expounded upon some of these key concepts back in the 1990s, as outlined below:
+
+- **Decentralization:** “No permission is needed from a central authority to post anything on the web, there is no central controlling node, and so no single point of failure...and no ‘kill switch’! This also implies freedom from indiscriminate censorship and surveillance.”
+
+- **Bottom-up design:** “Instead of code being written and controlled by a small group of experts, it was developed in full view of everyone, encouraging maximum participation and experimentation.”
