@@ -141,6 +141,50 @@ A decentralized autonomous organization (DAO) is an emerging form of legal struc
 
 <hr>
 
+## Soft & Hard Fork
+
+<br>
+
+<p align="center">
+<img src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/630375b5ee19b66302bd2cef_Hard%20Fork%20vs.%20Soft%20Fork-p-1080.jpg" width=500 />
+</p>
+
+<br>
+
+<br>
+
+**Soft Fork**
+
+In blockchain technology, a soft fork is a change to the software protocol where only previously valid transaction blocks are made invalid. Because old nodes will recognize the new blocks as valid, a soft fork is backwards-compatible. This kind of fork requires only a majority of the miners upgrading to enforce the new rules, as opposed to a hard fork that requires all nodes to upgrade and agree on the new version.
+
+_Understanding Soft Forks Usage:_
+
+New transaction types can often be added as soft forks, requiring only that the participants (e.g. sender and receiver) and miners understand the new transaction type. This is done by having the new transaction appear to older clients as a "pay-to-anybody" transaction (of a special form) and getting the miners to agree to reject blocks including these transactions unless the transaction validates under the new rules. This is how pay-to-script hash (P2SH) was added to bitcoin.
+
+A soft fork can also occur at times due to a temporary divergence in the blockchain when miners using non-upgraded nodes violate a new consensus rule their nodes don’t know about.
+
+Soft forks don't require any nodes to upgrade to maintain consensus, since all blocks with the new soft forked-in rules also follow the old rules, therefore old clients accept them. Soft forks cannot be reversed without a hard fork since a soft fork by definition only allows the set of valid blocks to be a proper subset of what was valid pre-fork. If users upgrade to a post-soft fork client and for some reason a majority of miners switch back to the pre-soft fork client, the post-soft fork client users would break consensus as soon as a block came along that didn't follow their clients' new rules. In order for a soft fork to work, a majority of the mining power needs to be running a client recognizing the fork. The more miners that accept the new rules, the more secure the network is post-fork. If you have 3/4 of miners recognizing the fork, 1/4 blocks created aren't guaranteed to follow the new rules. These 1/4 blocks will be valid to old nodes that aren't aware of the new rules, but they will be ignored by new nodes.
+
+<br>
+
+**Hard Fork**
+
+A hard fork (or hardfork), as it relates to blockchain technology, is a radical change to a network's protocol that makes previously invalid blocks and transactions valid, or vice-versa. A hard fork requires all nodes or users to upgrade to the latest version of the protocol software.
+
+Forks may be initiated by developers or members of a crypto community who grow dissatisfied with functionalities offered by existing blockchain implementations. They may also emerge as a way to crowdsource funding for new technology projects or cryptocurrency offerings.
+
+A hard fork can be contrasted with a soft fork.
+
+- A hard fork refers to a radical change to the protocol of a blockchain network that effectively results in two branches, one that follows the previous protocol and one that follows the new version.
+
+- In a hard fork, holders of tokens in the original blockchain will be granted tokens in the new fork as well, but miners must choose which blockchain to continue verifying.
+
+- A hard fork can occur in any blockchain, and not only Bitcoin (where hard forks have created Bitcoin Cash and Bitcoin SV, among several others, for example).
+
+<br>
+
+<hr>
+
 ## Initial Coin Offerings (ICO's)
 
 <br>
