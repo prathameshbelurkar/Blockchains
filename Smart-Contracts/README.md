@@ -136,3 +136,49 @@ A decentralized autonomous organization (DAO) is an emerging form of legal struc
 - One of the first DAOs named The DAO was an organization created by developers to automate decisions and facilitate cryptocurrency transactions.
 
 - A DAO must ensure security is prioritized, as exploits can leave a DAO drained of millions of dollars of its treasury savings.
+
+<br>
+
+<hr>
+
+## Initial Coin Offerings (ICO's)
+
+<br>
+
+<p align="center">
+<img src="https://miro.medium.com/max/828/0*Nj1wwQoHfbQptjG0.jpeg" width=500 />
+</p>
+
+<br>
+
+An initial coin offering (ICO) is the cryptocurrency industry’s equivalent of an initial public offering (IPO). A company seeking to raise money to create a new coin, app, or service can launch an ICO as a way to raise funds.
+
+Interested investors can buy into an initial coin offering to receive a new cryptocurrency token issued by the company. This token may have some utility related to the product or service that the company is offering or represent a stake in the company or project.
+
+- Initial coin offerings (ICOs) are a popular way to raise funds for products and services usually related to cryptocurrency.
+
+- ICOs are similar to initial public offerings (IPOs), but coins issued in an ICO also can have utility for a software service or product.
+
+- A few ICOs have yielded returns for investors. Numerous others have turned out to be fraudulent or have performed poorly.
+
+- To participate in an ICO, you usually need to first purchase a more established digital currency, plus have a basic understanding of cryptocurrency wallets and exchanges.
+
+- ICOs are, for the most part, completely unregulated, so investors must exercise a high degree of caution and diligence when researching and investing in them.
+
+<br>
+
+**How an Initial Coin Offering (ICO) Works:**
+
+When a cryptocurrency project wants to raise money through an ICO, the project organizers’ first step is determining how they will structure the coin. ICOs can be structured in a few different ways, including:
+
+- **Static supply and static price:** A company can set a specific funding goal or limit, which means that each token sold in the ICO has a preset price, and the total token supply is fixed.
+
+- **Static supply and dynamic price:** An ICO can have a static supply of tokens and a dynamic funding goal—this means that the amount of funds received in the ICO determines the overall price per token.
+
+- **Dynamic supply and static price:** Some ICOs have a dynamic token supply but a static price, meaning that the amount of funding received determines the supply.
+
+**_Reference:_** https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp
+
+<br>
+
+<hr>
